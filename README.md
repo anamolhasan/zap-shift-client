@@ -13,4 +13,6 @@
 [aos](https://michalsnik.github.io/aos/)
 
 
+[react-hook-form](https://react-hook-form.com/)
+[fire-base](https://firebase.google.com/?authuser=0)
 
